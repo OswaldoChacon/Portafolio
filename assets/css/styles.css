@@ -1,7 +1,7 @@
 html,
 body {
     height      : 100%;
-    font-family : 'Poppins', sans-serif !important;
+    /* font-family : 'Poppins', sans-serif !important; */
     /* color    : #6b6b6b; */
     /* font-size: 16px; */
     padding-top : 3.5rem;
@@ -46,4 +46,11 @@ img {
     /* box-shadow   : 10px 5px 5px black; */
     /* box-shadow   : 2px 2px 2px 1px rgba(0, 0, 0, 0.2); */
     box-shadow      : 3px 3px 5px 6px #ccc;
+}
+
+
+
+
+p{
+    font-weight: 100 !important;
 }
